@@ -1,0 +1,2 @@
+# TeknolojikCihazKarsilastirmaSitesi
+teknolojoik ürünlerin karşılaştırıldığı site
